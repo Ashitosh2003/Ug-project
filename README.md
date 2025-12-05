@@ -108,7 +108,8 @@
 ---
 
 🤝 Contributors
-G.Ashitosh
+Gade Ashitosh
+Baikadi Vivek Goud
 Galib Amin
 
 📄 License

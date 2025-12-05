@@ -108,9 +108,9 @@
 ---
 
 🤝 Contributors
-Gade Ashitosh
-Baikadi Vivek Goud
-Galib Amin
+Gade Ashitosh,
+Baikadi Vivek Goud,
+Galib Amin.
 
 📄 License
 This project is licensed under the MIT License.
